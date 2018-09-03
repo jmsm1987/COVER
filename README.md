@@ -1,0 +1,2 @@
+# COVER
+Carátulas de películas
